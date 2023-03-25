@@ -1,4 +1,7 @@
 Hello World
 Hello again
 More hello
+Hello World repository for Git tutorial
+This is an example repository for the Git tutorial https://www.w3schools.com
+This tutorial focusses mainly on Git and using Github as its remote
 this is in branch my-first-branch and also an Emergency Fix
